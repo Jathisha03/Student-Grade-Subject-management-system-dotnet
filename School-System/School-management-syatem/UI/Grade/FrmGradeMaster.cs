@@ -16,5 +16,7 @@ namespace School_management_syatem.UI.Grade
         {
             InitializeComponent();
         }
+
+   
     }
 }
