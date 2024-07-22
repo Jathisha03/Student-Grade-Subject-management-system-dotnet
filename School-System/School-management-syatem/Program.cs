@@ -16,7 +16,7 @@ namespace School_management_syatem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new UI.Grade.FrmGradeMaster());
+            Application.Run(new UI.Subject.FrmSubjectMaster());
         }
     }
 }

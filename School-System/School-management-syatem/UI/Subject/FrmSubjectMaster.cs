@@ -16,5 +16,10 @@ namespace School_management_syatem.UI.Subject
         {
             InitializeComponent();
         }
+
+        private void dgvGrade_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
